@@ -1,2 +1,1 @@
-# OPTIMIZING-SPAM-FILTERING-USING-MACHINE-LEARNING
-NAAN MUDHALVAN
+# Optimizing-Spam-Filtering-Using-Machine-Learning
